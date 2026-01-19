@@ -1,0 +1,5 @@
+{
+  "name": "TikZ CAD V2",
+  "description": "A high-performance interactive Cartesian coordinate system drawn on an HTML5 Canvas, featuring zoom and pan capabilities, with AI-powered TikZ LaTeX code export.",
+  "requestFramePermissions": []
+}
